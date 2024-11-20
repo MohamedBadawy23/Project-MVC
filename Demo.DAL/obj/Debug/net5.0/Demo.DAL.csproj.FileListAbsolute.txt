@@ -1,0 +1,24 @@
+F:\Route\Route C42\Cycle42\05 MVC\G03\Session 03\Demo.MVC.Group03\Demo.DAL\bin\Debug\net5.0\Demo.DAL.deps.json
+F:\Route\Route C42\Cycle42\05 MVC\G03\Session 03\Demo.MVC.Group03\Demo.DAL\bin\Debug\net5.0\Demo.DAL.dll
+F:\Route\Route C42\Cycle42\05 MVC\G03\Session 03\Demo.MVC.Group03\Demo.DAL\bin\Debug\net5.0\Demo.DAL.pdb
+F:\Route\Route C42\Cycle42\05 MVC\G03\Session 03\Demo.MVC.Group03\Demo.DAL\obj\Debug\net5.0\Demo.DAL.GeneratedMSBuildEditorConfig.editorconfig
+F:\Route\Route C42\Cycle42\05 MVC\G03\Session 03\Demo.MVC.Group03\Demo.DAL\obj\Debug\net5.0\Demo.DAL.AssemblyInfoInputs.cache
+F:\Route\Route C42\Cycle42\05 MVC\G03\Session 03\Demo.MVC.Group03\Demo.DAL\obj\Debug\net5.0\Demo.DAL.AssemblyInfo.cs
+F:\Route\Route C42\Cycle42\05 MVC\G03\Session 03\Demo.MVC.Group03\Demo.DAL\obj\Debug\net5.0\Demo.DAL.csproj.CoreCompileInputs.cache
+F:\Route\Route C42\Cycle42\05 MVC\G03\Session 03\Demo.MVC.Group03\Demo.DAL\obj\Debug\net5.0\Demo.DAL.dll
+F:\Route\Route C42\Cycle42\05 MVC\G03\Session 03\Demo.MVC.Group03\Demo.DAL\obj\Debug\net5.0\refint\Demo.DAL.dll
+F:\Route\Route C42\Cycle42\05 MVC\G03\Session 03\Demo.MVC.Group03\Demo.DAL\obj\Debug\net5.0\Demo.DAL.pdb
+F:\Route\Route C42\Cycle42\05 MVC\G03\Session 03\Demo.MVC.Group03\Demo.DAL\obj\Debug\net5.0\ref\Demo.DAL.dll
+F:\Route\Route C42\Cycle42\05 MVC\G03\Session 03\Demo.MVC.Group03\Demo.DAL\obj\Debug\net5.0\Demo.DAL.csproj.AssemblyReference.cache
+C:\Users\t\OneDrive\Desktop\Demo.MVC.Group03\Demo.MVC.Group03\Demo.DAL\bin\Debug\net5.0\Demo.DAL.deps.json
+C:\Users\t\OneDrive\Desktop\Demo.MVC.Group03\Demo.MVC.Group03\Demo.DAL\bin\Debug\net5.0\Demo.DAL.dll
+C:\Users\t\OneDrive\Desktop\Demo.MVC.Group03\Demo.MVC.Group03\Demo.DAL\bin\Debug\net5.0\Demo.DAL.pdb
+C:\Users\t\OneDrive\Desktop\Demo.MVC.Group03\Demo.MVC.Group03\Demo.DAL\obj\Debug\net5.0\Demo.DAL.csproj.AssemblyReference.cache
+C:\Users\t\OneDrive\Desktop\Demo.MVC.Group03\Demo.MVC.Group03\Demo.DAL\obj\Debug\net5.0\Demo.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\t\OneDrive\Desktop\Demo.MVC.Group03\Demo.MVC.Group03\Demo.DAL\obj\Debug\net5.0\Demo.DAL.AssemblyInfoInputs.cache
+C:\Users\t\OneDrive\Desktop\Demo.MVC.Group03\Demo.MVC.Group03\Demo.DAL\obj\Debug\net5.0\Demo.DAL.AssemblyInfo.cs
+C:\Users\t\OneDrive\Desktop\Demo.MVC.Group03\Demo.MVC.Group03\Demo.DAL\obj\Debug\net5.0\Demo.DAL.csproj.CoreCompileInputs.cache
+C:\Users\t\OneDrive\Desktop\Demo.MVC.Group03\Demo.MVC.Group03\Demo.DAL\obj\Debug\net5.0\Demo.DAL.dll
+C:\Users\t\OneDrive\Desktop\Demo.MVC.Group03\Demo.MVC.Group03\Demo.DAL\obj\Debug\net5.0\refint\Demo.DAL.dll
+C:\Users\t\OneDrive\Desktop\Demo.MVC.Group03\Demo.MVC.Group03\Demo.DAL\obj\Debug\net5.0\Demo.DAL.pdb
+C:\Users\t\OneDrive\Desktop\Demo.MVC.Group03\Demo.MVC.Group03\Demo.DAL\obj\Debug\net5.0\ref\Demo.DAL.dll
